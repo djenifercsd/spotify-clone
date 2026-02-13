@@ -1,10 +1,10 @@
 # Spotify Clone 🎧
 
-Projeto desenvolvido para praticar HTML5 e CSS3, recriando a interface do Spotify.
+Projeto desenvolvido para praticar HTML e CSS, recriando a interface do Spotify.
 
 ## 🚀 Tecnologias utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Flexbox
 - Grid
 
